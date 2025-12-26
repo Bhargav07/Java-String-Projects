@@ -1,0 +1,19 @@
+target/
+pom.xml.tag
+
+.idea
+.metadata
+hs_err_pid*
+*.iml
+bin/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+# to ignore integration test reports
+/test-output/*.html
+.settings
+.factorypath
+
